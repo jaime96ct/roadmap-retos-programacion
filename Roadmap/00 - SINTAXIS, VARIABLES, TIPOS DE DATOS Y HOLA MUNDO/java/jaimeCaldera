@@ -1,0 +1,32 @@
+/**
+ *
+ * @author Jaime Caldera Tello
+ */
+public class SintaxisVariablesDatos {
+
+    public static void main(String[] args) {
+        // https://www.java.com/es/
+        //comentario en una linea
+        /**
+         * comentario en varias lineas
+         */
+        /*
+        varias lineas tambien
+        */
+        //variable y constante
+        int miNumero;
+        final int MINUMEROCONSTANTE = 0;
+        //datos primitivos
+        int entero;
+        short corto;
+        long largo;
+        float flotante;
+        double dobleDecimal;
+        byte bit;
+        char letra;
+        boolean boleano;
+        //hola mundo
+        System.out.print("Mi lenguaje es Java.");
+     
+    }
+}
